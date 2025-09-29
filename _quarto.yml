@@ -1,0 +1,7 @@
+project:
+  type: website
+  output-dir: content/post
+format:
+  html:
+    theme: cosmo
+    code-line-numbers: true

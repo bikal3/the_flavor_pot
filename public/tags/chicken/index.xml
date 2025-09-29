@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Chicken on My Blog</title>
+        <link>http://localhost:1313/tags/chicken/</link>
+        <description>Recent content in Chicken on My Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 28 Sep 2025 12:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/chicken/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Chicken Biryani Recipe</title>
+        <link>http://localhost:1313/post/chicken-briyani-recipe/</link>
+        <pubDate>Sun, 28 Sep 2025 12:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/chicken-briyani-recipe/</guid>
+        <description>&lt;img src="http://localhost:1313/post/chicken-briyani-recipe/cover.webp" alt="Featured image of post Chicken Biryani Recipe" /&gt;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Chicken (1 kg)&lt;/li&gt;
+&lt;li&gt;Onions (big size 5-6)&lt;/li&gt;
+&lt;li&gt;Garlic ginger paste (2 tablespoons)&lt;/li&gt;
+&lt;li&gt;Potatoes (2-3 large)&lt;/li&gt;
+&lt;li&gt;Tomatoes (5-6 small)&lt;/li&gt;
+&lt;li&gt;Fresh chopped coriander&lt;/li&gt;
+&lt;li&gt;Fresh chopped mint&lt;/li&gt;
+&lt;li&gt;Plain curd (1 small cup)&lt;/li&gt;
+&lt;li&gt;Biryani Masala (Everest brand or your choice)&lt;/li&gt;
+&lt;li&gt;Turmeric (1 teaspoon)&lt;/li&gt;
+&lt;li&gt;Salt (to taste)&lt;/li&gt;
+&lt;li&gt;Timur (5-6 seeds)&lt;/li&gt;
+&lt;li&gt;Kasmiri lal mirch (1 teaspoon)&lt;/li&gt;
+&lt;li&gt;Basmati Rice (2 glasses)&lt;/li&gt;
+&lt;li&gt;Cumin and coriander powder (2 tablespoons)&lt;/li&gt;
+&lt;li&gt;Bay leaf (3-4 leaves)&lt;/li&gt;
+&lt;li&gt;Garam Masala (cloves, cardamom etc., a few pieces each)&lt;/li&gt;
+&lt;li&gt;Ghee&lt;/li&gt;
+&lt;li&gt;Mustard oil&lt;/li&gt;
+&lt;li&gt;Food color (optional)&lt;/li&gt;
+&lt;li&gt;Green chillies (4-5)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;marination-process&#34;&gt;Marination Process
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Clean the chicken and place it in a large mixing bowl.&lt;/li&gt;
+&lt;li&gt;Add diced potatoes, chopped tomatoes, coriander, and mint.&lt;/li&gt;
+&lt;li&gt;Add 1 small cup of plain yogurt, 2 teaspoons of salt, 1 teaspoon turmeric powder, 2 teaspoons cumin and coriander powder, slit green chillies, 1 teaspoon red chili powder, 3-4 tablespoons biryani masala, and 2-3 tablespoons garlic ginger paste.&lt;/li&gt;
+&lt;li&gt;Mix well and add a few teaspoons of ghee.&lt;/li&gt;
+&lt;li&gt;Marinate for a few hours, or at least 15-20 minutes in the fridge for a quick version.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;prepare-barista-fried-onions&#34;&gt;Prepare Barista (Fried Onions)
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Heat a pan and add some oil.&lt;/li&gt;
+&lt;li&gt;Chop onions finely and fry them slowly on medium heat until brown and crispy.&lt;/li&gt;
+&lt;li&gt;Remove and keep aside.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;cook-the-marinated-chicken&#34;&gt;Cook the Marinated Chicken
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Use the same pan with leftover oil from frying onions.&lt;/li&gt;
+&lt;li&gt;Add 1 teaspoon of Kasmiri lal mirch.&lt;/li&gt;
+&lt;li&gt;Pour the marinated chicken into the pan and cook on medium heat for 20-30 minutes until fully cooked.&lt;/li&gt;
+&lt;li&gt;Adjust salt and chili powder to taste. Add a little water if needed during cooking.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;prepare-the-rice&#34;&gt;Prepare the Rice
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Boil 4 glasses of water in a pot.&lt;/li&gt;
+&lt;li&gt;Add 2 tablespoons of salt, 3-4 bay leaves, and a few garam masala pieces.&lt;/li&gt;
+&lt;li&gt;When water boils, add washed basmati rice (2 glasses).&lt;/li&gt;
+&lt;li&gt;Boil until 90% cooked, then drain the water and set rice aside.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;youtube-video&#34;&gt;Youtube Video
+&lt;/h2&gt;&lt;p&gt;embed a youtube video.
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/fYi2UP9e47k&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;assemble-the-biryani-final-step&#34;&gt;Assemble the Biryani (Final Step)
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Take a big pot (gas off) and add 1 teaspoon of ghee.&lt;/li&gt;
+&lt;li&gt;Add 3-4 serving spoons of cooked rice.&lt;/li&gt;
+&lt;li&gt;Top with fried onions, chopped coriander, and mint.&lt;/li&gt;
+&lt;li&gt;Add 2-3 serving spoons of chicken and 1 teaspoon ghee.&lt;/li&gt;
+&lt;li&gt;Repeat layering rice, fried onions, herbs, and chicken until finished. Top with fried onions, coriander, mint, 2-3 teaspoons of ghee, and a few drops of food color (optional).&lt;/li&gt;
+&lt;li&gt;Turn on heat on low flame, cover with lid, and place something heavy on top to trap flavors.&lt;/li&gt;
+&lt;li&gt;Cook on low heat for 20-30 minutes.&lt;/li&gt;
+&lt;li&gt;Turn off heat and let it rest for a few minutes before serving.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Enjoy your hot and flavorful Chicken Biryani!&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

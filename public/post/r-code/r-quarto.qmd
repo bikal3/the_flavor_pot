@@ -1,0 +1,22 @@
+---
+title: "Module3 Calculations"
+subtitle: "GEOG346"
+author: "Bikal Shrestha"
+date: "2025-09-22"
+categories: [GEOG346]
+tags: [R, Calculations]
+draft: false
+format:
+  html:
+    code-fold: false
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+---
+
+```{r}
+#chunk 1
+set.seed(1)
+v1 <- sample(0:100, size=20, replace=TRUE)
+v1
+```

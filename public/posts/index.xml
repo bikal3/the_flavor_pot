@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on My Blog</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Recent content in Posts on My Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 28 Sep 2025 12:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Welcome to My Blog</title>
+        <link>http://localhost:1313/posts/first-post/</link>
+        <pubDate>Sun, 28 Sep 2025 12:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/first-post/</guid>
+        <description>&lt;h1 id=&#34;welcome-to-my-blog-&#34;&gt;Welcome to My Blog 🎉
+&lt;/h1&gt;&lt;p&gt;This is my first Blog Post&lt;/p&gt;
+&lt;p&gt;This is my &lt;strong&gt;first blog post&lt;/strong&gt; built with Hugo and the &lt;strong&gt;Stack theme&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It&amp;rsquo;s simple&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s fast&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s static&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Stay tuned for more posts!&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

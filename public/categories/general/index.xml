@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>General on My Blog</title>
+        <link>http://localhost:1313/categories/general/</link>
+        <description>Recent content in General on My Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 28 Sep 2025 12:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/general/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>first to My Blog</title>
+        <link>http://localhost:1313/post/first-post/</link>
+        <pubDate>Sun, 28 Sep 2025 12:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/first-post/</guid>
+        <description>&lt;h1 id=&#34;welcome-&#34;&gt;Welcome 🎉
+&lt;/h1&gt;&lt;p&gt;Hi there!&lt;/p&gt;
+&lt;p&gt;This is my &lt;strong&gt;first blog post&lt;/strong&gt; built with Hugo and the &lt;strong&gt;Stack theme&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It&amp;rsquo;s simple&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s fast&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s static&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Stay tuned for more posts!&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo server -D
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Second Post - Getting Started</title>
+        <link>http://localhost:1313/post/second-post/</link>
+        <pubDate>Sat, 20 Sep 2025 10:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/second-post/</guid>
+        <description>&lt;h1 id=&#34;getting-started-with-hugo&#34;&gt;Getting Started with Hugo
+&lt;/h1&gt;&lt;p&gt;In this post, I&amp;rsquo;ll show you how to run Hugo locally:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo server -D
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# Simple R code&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;x &amp;lt;- 1:5
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;mean&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;x&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
