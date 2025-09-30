@@ -6,6 +6,7 @@ description: "A detailed step-by-step recipe for making delicious Chicken Biryan
 tags: ["recipe", "chicken", "biryani", "cooking"]
 categories: ["Food"]
 image: cover.webp
+toc: true   
 ---
 
 ## Ingredients

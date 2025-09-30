@@ -1,6 +1,21 @@
 baseURL = "http://localhost:1313/"
 languageCode = "en-us"
-title = "My Blog"
+title = "The Flavor Pot"
 theme = "hugo-theme-stack"
 
 weight = 5
+
+[params.article]
+toc = true
+readingTime = true
+
+[params.widgets]
+
+  [[params.widgets.page]]
+  type = "toc"
+
+  [[params.widgets.page]]
+  type = "categories"
+
+  [[params.widgets.page]]
+  type = "tag-cloud"
