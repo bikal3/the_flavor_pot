@@ -3,12 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-28T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/biryani/</loc>
-    <lastmod>2025-09-28T12:00:00+00:00</lastmod>
+    <lastmod>2025-10-06T09:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-10-06T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/food/</loc>
+    <lastmod>2025-10-06T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/momo/</loc>
+    <lastmod>2025-10-06T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/nepali-cuisine/</loc>
+    <lastmod>2025-10-06T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nepali-food/</loc>
+    <lastmod>2025-10-06T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-10-06T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/recipe/</loc>
+    <lastmod>2025-10-06T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/recipes/</loc>
+    <lastmod>2025-10-06T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-10-06T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/veg-momo-keema/</loc>
+    <lastmod>2025-10-06T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vegetarian/</loc>
+    <lastmod>2025-10-06T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/biryani/</loc>
     <lastmod>2025-09-28T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/chicken/</loc>
@@ -23,9 +53,6 @@
     <loc>http://localhost:1313/post/first-post/</loc>
     <lastmod>2025-09-28T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/food/</loc>
-    <lastmod>2025-09-28T12:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/general/</loc>
     <lastmod>2025-09-28T12:00:00+00:00</lastmod>
   </url><url>
@@ -33,15 +60,6 @@
     <lastmod>2025-09-28T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/intro/</loc>
-    <lastmod>2025-09-28T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-09-28T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/recipe/</loc>
-    <lastmod>2025-09-28T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-09-28T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/calculations/</loc>
